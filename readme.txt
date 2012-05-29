@@ -1,0 +1,3 @@
+SpecFlow StepBuilder
+
+This project has been created to help try and keep SpecFlow steps maintainable by allowing easy translation from step definitions into command objects that perform the required step actions. The idea being that by keeping a simple pattern for implementing the steps the barrier to entry for testers and other developers learning how to implement automated tests becomes less. That's the idea anyway :-).
